@@ -13,8 +13,8 @@ I am Jhelian C. Napila 19 years old, Brgy. Armado Abra De Ilog Occidental Mindor
 https://napilajhelian-hub.github.io/napila-jhelian-portfolio/
 
 # Technology Used
- Github
-Visual Studio Code
+* Github
+* Visual Studio Code
 
 # Contact Me
  Gmail: napilajhelian@gmail.com
