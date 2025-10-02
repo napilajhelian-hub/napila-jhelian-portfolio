@@ -4,8 +4,8 @@
 I am Jhelian C. Napila 19 years old, Brgy. Armado Abra De Ilog Occidental Mindoro
 
 # Portfolio Section
-*Home
-*About
+* Home
+* About
 * Activities
 * Contact
 
